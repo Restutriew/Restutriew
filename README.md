@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Restutriew
-- 👀 I’m interested in Mobile Programming
+- 👀 I’m interested in Mobile Programming using Android Studio and Java Language
 - 🌱 I’m currently learning Flutter and Kotlin Mobile Development
 - 💞️ I’m looking to collaborate on Developer Online Team
 - 📫 How to reach me restutriew@gmail.com
